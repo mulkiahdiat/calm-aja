@@ -1,6 +1,9 @@
 backend:
   name: git-gateway
   branch: main
+  login: true
+
+local_backend: true
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
