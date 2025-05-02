@@ -1,6 +1,4 @@
-window.CMS_MANUAL_INIT = true;
-
-CMS.init({
+export default {
   backend: {
     name: "github",
     repo: "mulkiahdiat/calm-aja",
@@ -23,4 +21,4 @@ CMS.init({
       ]
     }
   ]
-});
+};
