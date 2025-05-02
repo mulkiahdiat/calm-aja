@@ -1,4 +1,4 @@
-export default {
+window.CMS.init({
   backend: {
     name: "github",
     repo: "mulkiahdiat/calm-aja",
@@ -21,4 +21,4 @@ export default {
       ]
     }
   ]
-};
+});
