@@ -10,14 +10,13 @@ const Hero: React.FC = () => {
         <div className="flex flex-col lg:flex-row items-center justify-between gap-12">
           <div className="lg:w-1/2 flex flex-col items-start space-y-6">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold leading-tight">
-              <span className="text-gray-800 dark:text-white">Welcome to</span>
+              <span className="text-gray-800 dark:text-white">Hello</span>
               <span className="block mt-2 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                My Business
+                
               </span>
             </h1>
             <p className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-xl">
-              We specialize in creating amazing experiences for our customers. 
-              Let us help you bring your vision to life.
+              Calm Aja adalah tempat buat lo yang pengen hidup lebih ringan, tenang, dan bisa menikmati banyak hal, ga ribet ga mahal. Gua bukan expert. Gua cuma orang biasa yang lagi belajar nikmatin hidup, dan pengen bareng-bareng sharing pengalaman ini ke lo semua. Kalau lo pernah ngerasa hidup tuh kadang ribet banget, bikin overthinking, dan lo cuma pengen berhenti sebentar untuk napas... lo nggak sendirian. Di sini, kita bergandengan tangan, melewati rintangan, dan bahagia bersama. 
             </p>
             <div className="flex flex-wrap gap-4">
               <a 
