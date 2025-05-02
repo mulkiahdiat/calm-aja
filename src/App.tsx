@@ -9,7 +9,7 @@ import Footer from './components/Footer';
 function App() {
   useEffect(() => {
     // Update the title
-    document.title = 'YourSite - Beautiful Modern Website';
+    document.title = 'Calm Aja';
     
     // Smooth scroll for anchor links
     document.querySelectorAll('a[href^="#"]').forEach(anchor => {
