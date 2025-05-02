@@ -3,7 +3,7 @@ window.CMS_MANUAL_INIT = true;
 CMS.init({
   backend: {
     name: "github",
-    repo: "mulkiahdiat/calm-aja", // your GitHub repo
+    repo: "mulkiahdiat/calm-aja",
     branch: "main",
     site_domain: "splendorous-pie-8b9224.netlify.app"
   },
