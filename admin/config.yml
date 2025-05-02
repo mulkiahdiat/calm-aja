@@ -2,7 +2,7 @@ backend:
   name: github
   repo: mulkiahdiat/calm-aja
   branch: main
-  oauth_client_id: GITHUB_CLIENT_ID_KAMU
+  oauth_client_id: Ov23lix6bved8oMVpOC5
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
