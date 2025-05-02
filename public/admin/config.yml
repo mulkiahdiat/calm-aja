@@ -3,7 +3,7 @@ backend:
   repo: mulkiahdiat/calm-aja
   branch: main
   oauth_client_id: Ov23lix6bved8oMVpOC5
-  base_url: https://splendorous-pie-8b9224.netlify.app
+  base_url: https://calmaja.netlify.app
   auth_endpoint: api/auth
 
 media_folder: "images/uploads"
