@@ -5,7 +5,7 @@ CMS.init({
     name: "github",
     repo: "mulkiahdiat/calm-aja",
     branch: "main",
-    site_domain: "splendorous-pie-8b9224.netlify.app"
+    site_domain: "calmaja.com"
   },
   media_folder: "public/assets",
   public_folder: "/assets",
