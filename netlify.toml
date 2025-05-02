@@ -2,7 +2,7 @@
 
 [build]
   # Directory to publish (the build output)
-  publish = "dist"
+  publish = "public"
   
   # Default build command
   command = "npm run build"
