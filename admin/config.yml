@@ -29,4 +29,3 @@ collections:
           - { label: "Hero Judul", name: "hero_title", widget: "string" }
           - { label: "Quote", name: "quote", widget: "string" }
           - { label: "Tentang", name: "about", widget: "text" }
-          
